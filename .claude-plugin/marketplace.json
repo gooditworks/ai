@@ -24,12 +24,7 @@
       "keywords": ["reflection", "meta", "improvement", "toolkit", "automation", "documentation"],
       "repository": "https://github.com/gooditworks/ai",
       "homepage": "https://github.com/gooditworks/ai/tree/main/plugins/reflect",
-      "license": "Apache-2.0",
-      "featured": true,
-      "components": {
-        "skills": 1,
-        "scripts": 3
-      }
+      "license": "Apache-2.0"
     }
   ]
 }
