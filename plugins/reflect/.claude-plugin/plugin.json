@@ -9,8 +9,5 @@
   "homepage": "https://github.com/gooditworks/ai/tree/main/plugins/reflect",
   "repository": "https://github.com/gooditworks/ai",
   "license": "Apache-2.0",
-  "keywords": ["reflection", "meta", "improvement", "toolkit", "automation", "documentation", "session-review"],
-  "engines": {
-    "claude-code": ">=1.0.0"
-  }
+  "keywords": ["reflection", "meta", "improvement", "toolkit", "automation", "documentation", "session-review"]
 }
