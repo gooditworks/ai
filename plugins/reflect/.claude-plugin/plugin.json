@@ -1,0 +1,16 @@
+{
+  "name": "reflect",
+  "version": "1.0.0",
+  "description": "Meta-improvement skill that analyzes development sessions to enhance your toolkit. Use when ending a work session, after completing complex tasks, or when encountering repeated friction. Identifies permission gaps, documentation gaps, skill improvements, and automation opportunities. Outputs direct improvements to files and beads issues for larger work.",
+  "author": {
+    "name": "Good IT Works",
+    "url": "https://github.com/gooditworks"
+  },
+  "homepage": "https://github.com/gooditworks/ai/tree/main/plugins/reflect",
+  "repository": "https://github.com/gooditworks/ai",
+  "license": "Apache-2.0",
+  "keywords": ["reflection", "meta", "improvement", "toolkit", "automation", "documentation", "session-review"],
+  "engines": {
+    "claude-code": ">=1.0.0"
+  }
+}

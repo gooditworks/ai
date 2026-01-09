@@ -1,0 +1,35 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "gooditworks-ai",
+  "version": "1.0.0",
+  "description": "A curated collection of AI-powered development tools and skills for Claude Code",
+  "owner": {
+    "name": "Good IT Works",
+    "url": "https://github.com/gooditworks"
+  },
+  "homepage": "https://github.com/gooditworks/ai",
+  "repository": "https://github.com/gooditworks/ai",
+  "license": "Apache-2.0",
+  "plugins": [
+    {
+      "name": "reflect",
+      "version": "1.0.0",
+      "description": "Meta-improvement skill that analyzes development sessions to enhance your toolkit. Identifies permission gaps, documentation gaps, skill improvements, and automation opportunities.",
+      "author": {
+        "name": "Good IT Works",
+        "url": "https://github.com/gooditworks"
+      },
+      "source": "./plugins/reflect",
+      "category": "productivity",
+      "keywords": ["reflection", "meta", "improvement", "toolkit", "automation", "documentation"],
+      "repository": "https://github.com/gooditworks/ai",
+      "homepage": "https://github.com/gooditworks/ai/tree/main/plugins/reflect",
+      "license": "Apache-2.0",
+      "featured": true,
+      "components": {
+        "skills": 1,
+        "scripts": 3
+      }
+    }
+  ]
+}
